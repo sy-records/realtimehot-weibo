@@ -34,6 +34,8 @@ License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 == Screenshots ==
 
 1. screenshot-1.png
+2. screenshot-2.png
+3. screenshot-3.png
 
 == Changelog ==
 
