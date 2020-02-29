@@ -31,7 +31,7 @@ function luffy_http_get($url)
 
 function luffy_weibo_realtimehot($num)
 {
-    echo '<p>欢迎使用 <a href="https://github.com/sy-records/realtimehot-weibo" title="RealtimehotWeibo（微博热搜榜）" target="_blank">Realtimehot Weibo（微博热搜榜）</a> 插件。</p>';
+    echo '<p>欢迎使用 <a href="https://github.com/sy-records/realtimehot-weibo" title="Realtimehot Weibo（微博热搜榜）" target="_blank">Realtimehot Weibo（微博热搜榜）</a> 插件。</p>';
 
     $num = !empty($num) ? $num : 10;
     if ($num <= 51) {
