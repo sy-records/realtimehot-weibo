@@ -1,7 +1,7 @@
 === Realtimehot Weibo（微博热搜榜） ===
 Contributors: shenyanzhi
 Donate link: https://qq52o.me/sponsor.html
-Tags: weibo,realtimehot,热搜
+Tags: weibo,realtimehot,微博,热搜
 Requires at least: 4.2
 Tested up to: 5.3.2
 Stable tag: 4.3
