@@ -14,16 +14,17 @@ License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
 == Description ==
 
-<strong>在WordPress的仪表盘、小工具、文章、页面等地方加入微博热搜榜，随时随地 get 实时微博热搜，一键直达！</strong>
+**在WordPress的仪表盘、小工具、文章、页面等地方加入微博热搜榜，随时随地 get 实时微博热搜，一键直达！**
 
-<strong>数据来源</strong>
-<ul>
-    <li>新浪微博热搜榜：https://s.weibo.com/top/summary?cate=realtimehot</li>
-</ul>
+## 数据来源
 
-<strong>作者博客</strong>
+* 新浪微博热搜榜：https://s.weibo.com/top/summary?cate=realtimehot
+
+## 作者博客
 
 [沈唁志](https://qq52o.me "沈唁志")
+
+接受定制开发 WordPress 插件，如有定制开发需求可以联系QQ。<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=85464277&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:85464277:51" alt="点此即可联系我" title="点此即可联系我"/></a>
 
 == Installation ==
 
