@@ -6,7 +6,7 @@ Requires at least: 4.2
 Tested up to: 5.3.2
 Stable tag: 4.3
 Requires PHP: 5.6.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: Apache 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
@@ -14,11 +14,11 @@ License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
 == Description ==
 
-**在WordPress的仪表盘、小工具、文章、页面等地方加入微博热搜榜，随时随地 get 实时微博热搜，一键直达！**
+在WordPress的仪表盘、小工具、文章、页面等地方加入微博热搜榜，随时随地 get 实时微博热搜，一键直达！
 
-## 数据来源
+数据来源：[新浪微博热搜榜](https://s.weibo.com/top/summary?cate=realtimehot)
 
-* 新浪微博热搜榜：https://s.weibo.com/top/summary?cate=realtimehot
+插件使用帮助查看Github：[https://github.com/sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
 
 ## 作者博客
 
@@ -39,6 +39,9 @@ License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 3. screenshot-3.png
 
 == Changelog ==
+
+= 1.0.1 =
+* 增加判断输出欢迎使用信息
 
 = 1.0.0 =
 * First version
