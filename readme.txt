@@ -4,7 +4,6 @@ Donate link: https://qq52o.me/sponsor.html
 Tags: weibo,realtimehot,微博,热搜
 Requires at least: 4.2
 Tested up to: 5.3.2
-Stable tag: 4.3
 Requires PHP: 5.6.0
 Stable tag: 1.0.1
 License: Apache 2.0
@@ -24,7 +23,7 @@ License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
 [沈唁志](https://qq52o.me "沈唁志")
 
-接受定制开发 WordPress 插件，如有定制开发需求可以[联系QQ](ttp://wpa.qq.com/msgrd?v=3&uin=85464277&site=qq&menu=yes)。
+接受定制开发 WordPress 插件，如有定制开发需求可以[联系QQ](http://wpa.qq.com/msgrd?v=3&uin=85464277&site=qq&menu=yes)。
 
 == Installation ==
 
