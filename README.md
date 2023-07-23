@@ -10,9 +10,9 @@
 
 ### 下载源码
 
-从 Github 下载源码，通过 WordPress 后台上传安装，或者直接将源码上传到 WordPress 插件目录`wp-content/plugins`
+从 GitHub 下载源码，通过 WordPress 后台上传安装，或者直接将源码上传到 WordPress 插件目录`wp-content/plugins`
 
-Github 下载节点：[https://github.com/sy-records/realtimehot-weibo/releases/latest](https://github.com/sy-records/realtimehot-weibo/releases/latest)
+GitHub 下载节点：[https://github.com/sy-records/realtimehot-weibo/releases/latest](https://github.com/sy-records/realtimehot-weibo/releases/latest)
 
 ## 使用
 
