@@ -3,9 +3,9 @@ Contributors: shenyanzhi
 Donate link: https://qq52o.me/sponsor.html
 Tags: weibo,realtimehot,微博,热搜
 Requires at least: 4.2
-Tested up to: 5.4
+Tested up to: 6.3
 Requires PHP: 5.6.0
-Stable tag: 1.0.1
+Stable tag: 1.1.0
 License: Apache 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
@@ -38,6 +38,10 @@ License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 3. screenshot-3.png
 
 == Changelog ==
+
+= 1.1.0 =
+* 修复获取微博热搜榜失败
+* 支持 WordPress 6.3
 
 = 1.0.1 =
 * 增加判断输出欢迎使用信息
