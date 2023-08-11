@@ -17,7 +17,7 @@ License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
 数据来源：[新浪微博热搜榜](https://s.weibo.com/top/summary?cate=realtimehot)
 
-插件使用帮助查看Github：[https://github.com/sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
+插件使用帮助查看GitHub：[https://github.com/sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
 
 ## 作者博客
 
