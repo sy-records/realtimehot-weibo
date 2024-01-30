@@ -3,7 +3,7 @@
 Plugin Name: Realtimehot Weibo（微博热搜榜）
 Plugin URI: https://github.com/sy-records/realtimehot-weibo
 Description: 在WordPress的仪表盘、小工具、文章、页面等地方加入微博热搜榜，随时随地 get 实时微博热搜，一键直达！
-Version: 1.1.0
+Version: 1.1.1
 Author: 沈唁
 Author URI: https://qq52o.me
 License: Apache 2.0
@@ -47,7 +47,7 @@ function luffy_weibo_realtimehot($num)
     if (!empty($result)) {
         echo '<ol>';
         for ($x = 0; $x <= $num; $x++) {
-            $a = str_replace('https://s.weibo.com/weibo?q=', '/weibo?q=', $result[0][$x]);
+            $a = str_replace('/weibo?q=', 'https://s.weibo.com/weibo?q=', $result[0][$x]);
             echo "<li>{$a}</li>";
         }
         echo '</ol>';
@@ -92,7 +92,7 @@ function luffy_get_weibo_realtimehot($atts, $content = null)
     $html = '<div><ol>';
     if (!empty($result)) {
         for ($x = 0; $x <= $num; $x++) {
-            $a = str_replace('https://s.weibo.com/weibo?q=', '/weibo?q=', $result[0][$x]);
+            $a = str_replace('/weibo?q=', 'https://s.weibo.com/weibo?q=', $result[0][$x]);
             $html .= "<li>{$a}</li>";
         }
     }
