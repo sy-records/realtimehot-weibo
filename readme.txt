@@ -5,7 +5,7 @@ Tags: weibo,realtimehot,微博,热搜
 Requires at least: 4.2
 Tested up to: 6.4
 Requires PHP: 5.6.0
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: Apache 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
@@ -33,11 +33,15 @@ License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
-3. screenshot-3.png
+1. 仪表盘
+2. 小工具
+3. 短代码
 
 == Changelog ==
+
+= 1.1.1 =
+* 修复链接错误
+* 增加预览
 
 = 1.1.0 =
 * 修复获取微博热搜榜失败

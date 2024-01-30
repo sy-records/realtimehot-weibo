@@ -2,6 +2,8 @@
 
 在WordPress的仪表盘、小工具、文章、页面等地方加入微博热搜榜，随时随地 get 实时微博热搜，一键直达！
 
+> 使用 WordPress Playground 在线预览 [Realtimehot Weibo](https://wordpress.org/plugins/realtimehot-weibo/?preview=1) 插件
+
 ## 安装
 
 ### 后台安装（推荐使用）
@@ -22,7 +24,7 @@ GitHub 下载节点：[https://github.com/sy-records/realtimehot-weibo/releases/
 
 插件启用后，默认在后台仪表盘处添加`微博热搜榜`，如下图
 
-![仪表盘](screenshot-1.png)
+![仪表盘](.wordpress-org/screenshot-1.png)
 
 ### 小工具
 
@@ -34,7 +36,7 @@ GitHub 下载节点：[https://github.com/sy-records/realtimehot-weibo/releases/
 <?php luffy_weibo_realtimehot(15); ?>
 ```
 
-![小工具](screenshot-2.png)
+![小工具](.wordpress-org/screenshot-2.png)
 
 ### 文章/页面
 
@@ -50,7 +52,7 @@ GitHub 下载节点：[https://github.com/sy-records/realtimehot-weibo/releases/
 [get_weibo_realtimehot]
 ```
 
-![Gutenberg编辑器](screenshot-3.png)
+![Gutenberg编辑器](.wordpress-org/screenshot-3.png)
 
 #### 经典编辑器
 
