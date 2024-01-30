@@ -2,8 +2,6 @@
 
 在WordPress的仪表盘、小工具、文章、页面等地方加入微博热搜榜，随时随地 get 实时微博热搜，一键直达！
 
-> 使用 WordPress Playground 在线预览 [Realtimehot Weibo](https://wordpress.org/plugins/realtimehot-weibo/?preview=1) 插件
-
 ## 安装
 
 ### 后台安装（推荐使用）
