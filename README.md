@@ -59,7 +59,3 @@ GitHub 下载节点：[https://github.com/sy-records/realtimehot-weibo/releases/
 ```
 [get_weibo_realtimehot]
 ```
-
-## 定制插件
-
-接受定制开发 WordPress 插件，如有定制开发需求可以联系QQ。<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=85464277&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:85464277:51" alt="点此即可联系我" title="点此即可联系我"/></a>

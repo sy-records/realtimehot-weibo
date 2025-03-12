@@ -3,7 +3,7 @@
 Plugin Name: Realtimehot Weibo（微博热搜榜）
 Plugin URI: https://github.com/sy-records/realtimehot-weibo
 Description: 在WordPress的仪表盘、小工具、文章、页面等地方加入微博热搜榜，随时随地 get 实时微博热搜，一键直达！
-Version: 1.1.1
+Version: 1.1.2
 Author: 沈唁
 Author URI: https://qq52o.me
 License: Apache 2.0
