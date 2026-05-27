@@ -3,7 +3,7 @@ Contributors: shenyanzhi
 Donate link: https://qq52o.me/sponsor.html
 Tags: weibo,realtimehot,微博,热搜
 Requires at least: 4.6
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 5.6.0
 Stable tag: 1.1.2
 License: Apache 2.0
